@@ -7,13 +7,13 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/abittechnical/notes
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/bitwhys
 format:
   html:
     theme: litera
     css: styles.css
 highlight-style: dracula
-
-
+execute:
+  freeze: auto

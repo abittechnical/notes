@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 04fdf3f0-9803-42b1-8bf9-19395c88c43d
+      url: 'https://dulcet-moonbeam-e56597.netlify.app'
